@@ -1,0 +1,56 @@
+body {
+  font-size: 20px;
+  font-family: "Tahoma", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #000000;
+  font-weight: 800;
+}
+
+h2 {
+  color: #505050;
+  font-weight: 400;
+}
+
+h3 {
+  color: #808080;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.image {
+  border-radius: 10px;
+}
+
+.description {
+  margin:auto;
+}
+
+.ingredients {
+  margin:auto;
+  text-align: left;
+}
+
+.steps {
+  margin:auto;
+  text-align: left;
+}
+
+.list {
+  margin:auto;
+  text-align: left;
+}
+
+.links {
+  font-weight: 600;
+}
+
+a:link {
+  color:aqua;
+}
+
+a:visited {
+  color: palevioletred;
+}
